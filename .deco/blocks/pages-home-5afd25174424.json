@@ -20,7 +20,9 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/LongBanner.tsx"
+        "__resolveType": "site/sections/LongBanner.tsx",
+        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/estudosgu/30650b13-0680-4cc6-a3cb-2f2874ab2ab6/Rectangle-23.png",
+        "alt": "Banner test"
       }
     },
     {
