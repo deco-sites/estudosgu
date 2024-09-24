@@ -8,7 +8,7 @@ interface Props {
 export default function LongBanner({ image, alt }: Props) {
   return (
     <div>
-      <Image src={image} alt={alt} width={1143} height={256} loading="lazy" />
+      <Image src={image} alt={alt} width={1143} height={256} />
     </div>
   );
 }
